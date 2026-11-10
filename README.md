@@ -1,4 +1,4 @@
-# GC-Portfolio
+# GamerCr4cked
 
 Personal multi-page portfolio for GamerCr4cked.
 
